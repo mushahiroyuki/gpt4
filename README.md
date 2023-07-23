@@ -2,7 +2,7 @@
 
 ![表紙](https://www.marlin-arms.com/jpn/arts/books/gpt4.png)
 
-[インプレス](https://book.impress.co.jp/books/)発行（Sandra Kublik+Shubham Saboo著、武舎広幸訳）の『GPT4（仮題）(https://www.marlin-arms.com/support/gpt4/)』の例題用リポジトリです。
+[インプレス](https://book.impress.co.jp/books/)発行（Sandra Kublik+Shubham Saboo著、武舎広幸訳）の『[GPT4（仮題）](https://www.marlin-arms.com/support/gpt4/)』の例題用リポジトリです。
 
 <div>
 <ul>
