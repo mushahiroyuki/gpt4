@@ -9,7 +9,7 @@ const openai = new OpenAIApi(configuration);
 
 async function generateResponse() {
   while (true) {
-    const userInput = await getUserInput('USER: ');
+    const userInput = await getUserInput('原文: ');
 
     if (userInput.length < 2) {
       break;
@@ -26,7 +26,7 @@ async function generateResponse() {
         ],
       });
 
-      console.log("GPT:", completion.data.choices[0].message.content);
+      console.log("訳文:", completion.data.choices[0].message.content);
     } catch (error) {
       console.error("APIリクエストが失敗しました:", error.message);
     }
