@@ -18,7 +18,7 @@ func main() {
 	for {
 		userInput := getUserInput("原文: ")
 
-		if len(userInput) < 2 {
+		if len(userInput) < 3 {
 			break
 		}
 		
