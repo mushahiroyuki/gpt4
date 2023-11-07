@@ -2,7 +2,7 @@
 
 ![表紙](https://www.marlin-arms.com/jpn/arts/books-small/gpt4.png)
 
-[インプレス](https://book.impress.co.jp/books/)発行（Sandra Kublik+Shubham Saboo著、武舎広幸訳）の『[全容解説GPT テキスト生成AIプロダクト構築への第一歩](https://www.marlin-arms.com/support/gpt4/)』の例題用リポジトリです。
+[インプレス](https://book.impress.co.jp/books/1123101017)発行（Sandra Kublik+Shubham Saboo著、武舎広幸訳）の『[全容解説GPT テキスト生成AIプロダクト構築への第一歩](https://www.marlin-arms.com/support/gpt4/)』の例題用リポジトリです。
 
 <div>
 <ul>
